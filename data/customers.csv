@@ -1,0 +1,41 @@
+﻿customer_id;customer_name;country;currency;segment;payment_terms_days;collector;credit_limit_eur
+C001;Pelmar Foods GmbH;DE;EUR;Small;30;A. Nowak;32000
+C002;Corvane Retail Sp. z o.o.;PL;PLN;Standard;30;P. Wiśniewski;93000
+C003;Lumera Energy Sp. z o.o.;PL;PLN;Small;14;K. Zielińska;22000
+C004;Estrel Retail GmbH;DE;EUR;Key account;30;A. Nowak;312000
+C005;Delmaro Systems s.r.o.;CZ;EUR;Small;14;P. Wiśniewski;19000
+C006;Alvento Plastics B.V.;NL;EUR;Standard;30;K. Zielińska;104000
+C007;Helmar Chemicals Sp. z o.o.;PL;PLN;Small;30;A. Nowak;35000
+C008;Rovanta Steel Inc.;US;USD;Standard;30;P. Wiśniewski;101000
+C009;Ostrava Systems Inc.;US;USD;Key account;30;K. Zielińska;277000
+C010;Ferrion Retail Inc.;US;USD;Small;60;A. Nowak;16000
+C011;Corvane Logistics B.V.;NL;EUR;Standard;45;P. Wiśniewski;126000
+C012;Rovanta Systems s.r.o.;CZ;EUR;Standard;45;K. Zielińska;91000
+C013;Kalvex Retail Sp. z o.o.;PL;PLN;Small;14;A. Nowak;16000
+C014;Corvane Automotive GmbH;AT;EUR;Key account;30;P. Wiśniewski;289000
+C015;Ostrava Automotive B.V.;NL;EUR;Key account;45;K. Zielińska;295000
+C016;Tarnex Plastics Inc.;US;USD;Standard;14;A. Nowak;94000
+C017;Tarnex Logistics Sp. z o.o.;PL;PLN;Key account;14;P. Wiśniewski;239000
+C018;Delmaro Plastics GmbH;DE;EUR;Standard;30;K. Zielińska;89000
+C019;Norvel Systems GmbH;AT;EUR;Small;14;A. Nowak;17000
+C020;Ferrion Logistics Sp. z o.o.;PL;PLN;Small;30;P. Wiśniewski;13000
+C021;Marvon Steel GmbH;DE;EUR;Standard;30;K. Zielińska;96000
+C022;Selvic Chemicals Inc.;US;USD;Key account;30;A. Nowak;299000
+C023;Pelmar Plastics Sp. z o.o.;PL;PLN;Key account;60;P. Wiśniewski;261000
+C024;Norvel Logistics GmbH;DE;EUR;Small;30;K. Zielińska;20000
+C025;Selvic Plastics GmbH;AT;EUR;Key account;45;A. Nowak;258000
+C026;Pelmar Pharma GmbH;AT;EUR;Standard;30;P. Wiśniewski;85000
+C027;Corvane Energy B.V.;NL;EUR;Standard;30;K. Zielińska;77000
+C028;Tarnex Retail GmbH;DE;EUR;Standard;30;A. Nowak;116000
+C029;Ostrava Plastics Sp. z o.o.;PL;PLN;Standard;45;P. Wiśniewski;111000
+C030;Quintor Automotive Sp. z o.o.;PL;PLN;Key account;14;K. Zielińska;312000
+C031;Helmar Energy GmbH;AT;EUR;Standard;60;A. Nowak;89000
+C032;Helmar Logistics Sp. z o.o.;PL;PLN;Standard;14;P. Wiśniewski;71000
+C033;Kalvex Automotive Sp. z o.o.;PL;PLN;Key account;14;K. Zielińska;291000
+C034;Ferrion Steel GmbH;DE;EUR;Standard;30;A. Nowak;82000
+C035;Alvento Chemicals GmbH;DE;EUR;Small;14;P. Wiśniewski;28000
+C036;Jorvik Foods Sp. z o.o.;PL;PLN;Standard;30;K. Zielińska;88000
+C037;Pelmar Logistics GmbH;DE;EUR;Key account;30;A. Nowak;316000
+C038;Norvel Pharma Sp. z o.o.;PL;PLN;Small;60;P. Wiśniewski;17000
+C039;Rovanta Retail Sp. z o.o.;PL;PLN;Small;60;K. Zielińska;32000
+C040;Jorvik Retail GmbH;AT;EUR;Small;45;A. Nowak;40000
